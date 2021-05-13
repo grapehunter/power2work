@@ -77,3 +77,11 @@ repo = "grapehunter/power2work"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[params.analytics]
+enable = true
+# Google Analytics
+[params.analytics.google]
+id = "G-R4JLZNGHQ0"
+# 是否匿名化用户 IP
+anonymizeIP = false
