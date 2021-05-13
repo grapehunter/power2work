@@ -52,8 +52,8 @@ enableEmoji = true
 
 [params.page.comment]
     enable = true
-    # Gitalk 评论系统设置
-    [params.page.comment.gitalk]
+# Gitalk 评论系统设置
+[params.page.comment.gitalk]
     # LoveIt 新增 | 0.1.1
     enable = true
     owner = "grapehunter"
